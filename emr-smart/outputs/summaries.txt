@@ -1,0 +1,29 @@
+[1]
+Patient 1: Current severity 5.6623590037366975 (High). Five-week trend classified as Worsening. Model confidence — Improving: 5.310341858213308e-08, Stable: 3.024024747126733e-07, Worsening: 0.9999996444941066. Alerts: High current severity; Worsening trend over 5 weeks. Consider reviewing vitals evolution and corroborating with clinical notes; this is decision support, not a diagnosis. (Note: LLM fallback used due to API error.)
+
+[2]
+Patient 2: Current severity 6.373498769697243 (High). Five-week trend classified as Worsening. Model confidence — Improving: 4.429780161225939e-08, Stable: 7.153978409772945e-06, Worsening: 0.9999928017237886. Alerts: High current severity; Worsening trend over 5 weeks. Consider reviewing vitals evolution and corroborating with clinical notes; this is decision support, not a diagnosis. (Note: LLM fallback used due to API error.)
+
+[3]
+Patient 3: Current severity 5.347214041183611 (Moderate). Five-week trend classified as Improving. Model confidence — Improving: 0.9999977212779146, Stable: 2.111043737118488e-06, Worsening: 1.6767834825206453e-07. Alerts: No immediate alerts.. Consider reviewing vitals evolution and corroborating with clinical notes; this is decision support, not a diagnosis. (Note: LLM fallback used due to API error.)
+
+[4]
+Patient 4: Current severity 1.8003180904679839 (Low). Five-week trend classified as Improving. Model confidence — Improving: 0.9999775939531188, Stable: 2.2367526564586538e-05, Worsening: 3.8520316718335574e-08. Alerts: No immediate alerts.. Consider reviewing vitals evolution and corroborating with clinical notes; this is decision support, not a diagnosis. (Note: LLM fallback used due to API error.)
+
+[5]
+Patient 5: Current severity 4.438790927435532 (Moderate). Five-week trend classified as Improving. Model confidence — Improving: 0.9999659635231885, Stable: 3.3530032725828374e-05, Worsening: 5.064440857108872e-07. Alerts: No immediate alerts.. Consider reviewing vitals evolution and corroborating with clinical notes; this is decision support, not a diagnosis. (Note: LLM fallback used due to API error.)
+
+[6]
+Patient 6: Current severity 6.207067220886503 (High). Five-week trend classified as Stable. Model confidence — Improving: 2.7219271168061643e-06, Stable: 0.9999918619674177, Worsening: 5.416105465372028e-06. Alerts: High current severity. Consider reviewing vitals evolution and corroborating with clinical notes; this is decision support, not a diagnosis. (Note: LLM fallback used due to API error.)
+
+[7]
+Patient 7: Current severity 3.4369206572066555 (Moderate). Five-week trend classified as Improving. Model confidence — Improving: 0.9999991791386972, Stable: 7.867710306347345e-07, Worsening: 3.409027226447188e-08. Alerts: No immediate alerts.. Consider reviewing vitals evolution and corroborating with clinical notes; this is decision support, not a diagnosis. (Note: LLM fallback used due to API error.)
+
+[8]
+Patient 8: Current severity 4.724313170826544 (Moderate). Five-week trend classified as Worsening. Model confidence — Improving: 3.433494661814883e-08, Stable: 8.201407774314134e-07, Worsening: 0.9999991455242758. Alerts: Worsening trend over 5 weeks. Consider reviewing vitals evolution and corroborating with clinical notes; this is decision support, not a diagnosis. (Note: LLM fallback used due to API error.)
+
+[9]
+Patient 9: Current severity 3.6581281342535314 (Moderate). Five-week trend classified as Worsening. Model confidence — Improving: 1.989906239412855e-06, Stable: 1.6647438436258976e-05, Worsening: 0.9999813626553243. Alerts: Worsening trend over 5 weeks. Consider reviewing vitals evolution and corroborating with clinical notes; this is decision support, not a diagnosis. (Note: LLM fallback used due to API error.)
+
+[10]
+Patient 10: Current severity 5.409705202703465 (Moderate). Five-week trend classified as Stable. Model confidence — Improving: 4.782063883776929e-06, Stable: 0.9999903709882945, Worsening: 4.846947821739163e-06. Alerts: No immediate alerts.. Consider reviewing vitals evolution and corroborating with clinical notes; this is decision support, not a diagnosis. (Note: LLM fallback used due to API error.)
